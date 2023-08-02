@@ -1,6 +1,6 @@
 # Laravel 
 
-# Crating new project
+# Creating new project
 - composer global require laravel/installer
 - laravel new name
 
