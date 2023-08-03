@@ -38,11 +38,5 @@ php artisan make:model Category -m
 - php artisan make:seeder AdminSeeder   
 - php artisan make:migration add_is_admin_to_users_table
 
-
-
 - PHP 8.1.10
 - Laravel 9
-- blade languange
-
-
-Youtube tutorial part 2: https://www.youtube.com/watch?v=2bz5eleBj98
